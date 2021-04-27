@@ -12,9 +12,6 @@
 
 ## Binary Search Example
 
-"""
-Binary search exercise 01
-"""
 
     list = [30, 111, 120, 146, 290, 293, 343, 350, 357, 492]
     print(f"***** {list} *****")
@@ -50,7 +47,7 @@ Binary search exercise 01
     
     print(search(1000))
 
-
+![](binary_search.gif)
 
 
 
