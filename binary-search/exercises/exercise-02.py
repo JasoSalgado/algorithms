@@ -30,4 +30,4 @@ for i in range(len(list)):
     print(f"Index: {i} => {list[i]}")
 
 
-print(search(0))
+print(search(220))
